@@ -1,0 +1,12 @@
+id: 1
+price: 2.34
+name: iPhone
+Gadget{gadgetID=1, gPrice=2.34, gName= iPhone}
+id: 2
+price: 12.45
+name: Dell laptop
+Gadget{gadgetID=2, gPrice=12.45, gName= Dell laptop}
+id: 3
+price: 23.89
+name: Samsung Galaxy 8
+Gadget{gadgetID=3, gPrice=23.89, gName= Samsung Galaxy 8}
